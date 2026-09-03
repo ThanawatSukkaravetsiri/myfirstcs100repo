@@ -12,12 +12,6 @@ background-color: white;
 padding: 50px;
 }
 
-img {
-    margin:0 auto;
-    display: block;
-    height: 400px;
-}
-
 h1 {
     text-align: center;
 }
@@ -31,4 +25,17 @@ h1 {
 #CV {
     text-align: center;
     text-decoration: none;
+}
+
+.photo {
+text-align: center;
+}
+
+.photo img {
+width: 320px;
+}
+
+.info {
+width: 620px;
+margin: 40px auto 0 auto;
 }
